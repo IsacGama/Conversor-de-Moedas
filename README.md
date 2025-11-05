@@ -10,7 +10,7 @@ Java 11 ou superior
 Biblioteca Gson para manipulação de JSON.
 Como usar
 Clone este repositório:
-git clone [https://github.com/seu-usuario/conversor-moedas-java.git](https://github.com/IsacGama/Conversor-de-Moedas.git)
+git clone [https://github.com/IsacGama/Conversor-de-Moedas](https://github.com/IsacGama/Conversor-de-Moedas.git)
 cd conversor-moedas-java
 
 Adicione a biblioteca Gson ao seu projeto. Se você estiver usando Maven, adicione a seguinte dependência ao seu pom.xml:
